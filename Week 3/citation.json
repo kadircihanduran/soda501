@@ -1,0 +1,997 @@
+[
+    {
+        "year":2005,
+        "cites":72,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2006,
+        "cites":154,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2007,
+        "cites":198,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2008,
+        "cites":368,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2009,
+        "cites":438,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2010,
+        "cites":543,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2011,
+        "cites":600,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2012,
+        "cites":688,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2013,
+        "cites":769,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2014,
+        "cites":878,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2015,
+        "cites":955,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2016,
+        "cites":997,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2017,
+        "cites":1050,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2018,
+        "cites":995,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2019,
+        "cites":1079,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2020,
+        "cites":1054,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2021,
+        "cites":1038,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2022,
+        "cites":987,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2023,
+        "cites":865,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2024,
+        "cites":961,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2025,
+        "cites":1070,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2026,
+        "cites":76,
+        "name":"Matt Golder"
+    },
+    {
+        "year":2005,
+        "cites":10,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2006,
+        "cites":11,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2007,
+        "cites":30,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2008,
+        "cites":40,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2009,
+        "cites":60,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2010,
+        "cites":86,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2011,
+        "cites":92,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2012,
+        "cites":105,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2013,
+        "cites":102,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2014,
+        "cites":151,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2015,
+        "cites":147,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2016,
+        "cites":175,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2017,
+        "cites":178,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2018,
+        "cites":155,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2019,
+        "cites":177,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2020,
+        "cites":192,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2021,
+        "cites":217,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2022,
+        "cites":168,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2023,
+        "cites":188,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2024,
+        "cites":217,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2025,
+        "cites":218,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":2026,
+        "cites":13,
+        "name":"Sona N. Golder"
+    },
+    {
+        "year":1995,
+        "cites":8,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":1996,
+        "cites":10,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":1997,
+        "cites":13,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":1998,
+        "cites":19,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":1999,
+        "cites":17,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2000,
+        "cites":26,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2001,
+        "cites":21,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2002,
+        "cites":28,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2003,
+        "cites":48,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2004,
+        "cites":50,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2005,
+        "cites":67,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2006,
+        "cites":84,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2007,
+        "cites":93,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2008,
+        "cites":94,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2009,
+        "cites":73,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2010,
+        "cites":104,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2011,
+        "cites":115,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2012,
+        "cites":115,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2013,
+        "cites":131,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2014,
+        "cites":121,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2015,
+        "cites":115,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2016,
+        "cites":164,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2017,
+        "cites":173,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2018,
+        "cites":168,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2019,
+        "cites":143,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2020,
+        "cites":160,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2021,
+        "cites":165,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2022,
+        "cites":162,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2023,
+        "cites":196,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2024,
+        "cites":182,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2025,
+        "cites":160,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2026,
+        "cites":9,
+        "name":"Lee Ann Banaszak"
+    },
+    {
+        "year":2011,
+        "cites":14,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2012,
+        "cites":36,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2013,
+        "cites":98,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2014,
+        "cites":78,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2015,
+        "cites":139,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2016,
+        "cites":272,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2017,
+        "cites":229,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2018,
+        "cites":316,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2019,
+        "cites":374,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2020,
+        "cites":443,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2021,
+        "cites":420,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2022,
+        "cites":405,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2023,
+        "cites":473,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2024,
+        "cites":484,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2025,
+        "cites":543,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2026,
+        "cites":63,
+        "name":"Bruce Desmarais"
+    },
+    {
+        "year":2008,
+        "cites":26,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2009,
+        "cites":39,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2010,
+        "cites":60,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2011,
+        "cites":115,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2012,
+        "cites":160,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2013,
+        "cites":274,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2014,
+        "cites":341,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2015,
+        "cites":458,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2016,
+        "cites":494,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2017,
+        "cites":537,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2018,
+        "cites":562,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2019,
+        "cites":656,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2020,
+        "cites":817,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2021,
+        "cites":797,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2022,
+        "cites":931,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2023,
+        "cites":969,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2024,
+        "cites":1033,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2025,
+        "cites":1172,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2026,
+        "cites":64,
+        "name":"Joseph Wright"
+    },
+    {
+        "year":2015,
+        "cites":2,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2016,
+        "cites":3,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2017,
+        "cites":2,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2018,
+        "cites":10,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2019,
+        "cites":7,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2020,
+        "cites":33,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2021,
+        "cites":131,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2022,
+        "cites":116,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2023,
+        "cites":113,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2024,
+        "cites":97,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2025,
+        "cites":115,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2026,
+        "cites":12,
+        "name":"Jared Edgerton"
+    },
+    {
+        "year":2013,
+        "cites":3,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2014,
+        "cites":5,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2015,
+        "cites":6,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2016,
+        "cites":5,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2017,
+        "cites":8,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2018,
+        "cites":10,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2019,
+        "cites":3,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2020,
+        "cites":14,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2021,
+        "cites":19,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2022,
+        "cites":20,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2023,
+        "cites":21,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2024,
+        "cites":15,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2025,
+        "cites":29,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2026,
+        "cites":1,
+        "name":"Daniel Tavana"
+    },
+    {
+        "year":2012,
+        "cites":8,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2013,
+        "cites":15,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2014,
+        "cites":34,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2015,
+        "cites":51,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2016,
+        "cites":68,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2017,
+        "cites":126,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2018,
+        "cites":98,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2019,
+        "cites":164,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2020,
+        "cites":155,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2021,
+        "cites":174,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2022,
+        "cites":231,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2023,
+        "cites":308,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2024,
+        "cites":322,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2025,
+        "cites":289,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2026,
+        "cites":15,
+        "name":"Michael Nelson"
+    },
+    {
+        "year":2001,
+        "cites":13,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2002,
+        "cites":24,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2003,
+        "cites":15,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2004,
+        "cites":41,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2005,
+        "cites":41,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2006,
+        "cites":88,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2007,
+        "cites":88,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2008,
+        "cites":120,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2009,
+        "cites":139,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2010,
+        "cites":133,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2011,
+        "cites":147,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2012,
+        "cites":188,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2013,
+        "cites":251,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2014,
+        "cites":278,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2015,
+        "cites":256,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2016,
+        "cites":248,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2017,
+        "cites":273,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2018,
+        "cites":243,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2019,
+        "cites":258,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2020,
+        "cites":277,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2021,
+        "cites":251,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2022,
+        "cites":281,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2023,
+        "cites":283,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2024,
+        "cites":247,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2025,
+        "cites":262,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2026,
+        "cites":16,
+        "name":"Bumba Mukherjee"
+    },
+    {
+        "year":2006,
+        "cites":24,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2007,
+        "cites":34,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2008,
+        "cites":54,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2009,
+        "cites":84,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2010,
+        "cites":150,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2011,
+        "cites":193,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2012,
+        "cites":196,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2013,
+        "cites":260,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2014,
+        "cites":315,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2015,
+        "cites":326,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2016,
+        "cites":428,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2017,
+        "cites":519,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2018,
+        "cites":530,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2019,
+        "cites":586,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2020,
+        "cites":589,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2021,
+        "cites":614,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2022,
+        "cites":583,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2023,
+        "cites":647,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2024,
+        "cites":712,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2025,
+        "cites":736,
+        "name":"Jim Piazza"
+    },
+    {
+        "year":2026,
+        "cites":39,
+        "name":"Jim Piazza"
+    }
+]
